@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@300&family=Montserrat:ital,wght@1,300&family=Raleway:wght@300&family=Square+Peg&family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@300&family=Montserrat:ital,wght@1,300&family=Raleway:wght@300&family=Square+Peg&family=Tapestry&family=Whisper&display=swap');
+
+
+body {
+    text-align: justify;
+    font-family: Anek Telugu, sans-serif;
+}
+
+.menu {
+    width: 100%;
+    background-color: rgb(133, 226, 226);
+    padding: 10px;
+}
+
+.menuItem {
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.menuItem:hover {
+    background-color: DarkTurquoise;
+}
+
+.fig {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+h1 {
+    background: LightCyan;
+    text-align: center;
+    font-family: Tapestry;
+}
+
+h2 {
+    text-align: center;
+    font-family: Tapestry;
+}
+
+h3 {
+    text-align: center;
+    font-size: 200%;
+    font-family: Tapestry;
+}
+
+h4 {
+    text-align: center;
+    font-size: 200%;
+    font-family: Tapestry;
+}
+
+h5 {
+    text-align: center;
+    font-size: 200%;
+    font-family: Tapestry;
+}
+
+h6 {
+    text-align: center;
+    font-size: 200%;
+    font-family: Tapestry;
+}
+
+.hello {
+    text-align: center;
+    font-size: 200%;
+    font-family: Tapestry;
+}
+
+.bye {
+    text-align: center;
+    font-size: 200%;
+    color: Aqua;
+}
+
+.blue {
+    float: right;
+    margin: 0 0 5px 5px;
+}
+
+.grey {
+    float: right;
+    margin: 0 0 5px 5px;
+}
+
+.red {
+    background: rgb(255, 230, 209);
+    font-size: 150%;
+    text-align: justify;
+}
+
+.green {
+    background: rgb(195, 255, 195);
+    font-size: 150%;
+    text-align: justify;
+}
+
+.purple {
+    background: rgb(236, 236, 253);
+    font-size: 150%;
+    text-align: justify;
+}
+
+.pink {
+    background: rgb(255, 236, 205);
+    font-size: 150%;
+    text-align: justify;
+}
+
+.yellow {
+    background: rgb(252, 210, 217);
+    font-size: 150%;
+    text-align: justify;
+}
